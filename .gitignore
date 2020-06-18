@@ -1,0 +1,9 @@
+# Modules to exclude
+node_modules
+env
+
+# Exclude generated spreadsheets and JSONs
+*.xlsx
+*.xlsx#
+AnimeList.json
+*.csv
